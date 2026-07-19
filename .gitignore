@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+test_api.py
+test_key.py
